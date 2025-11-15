@@ -1,0 +1,56 @@
+        
+body{
+    background-color: #FFF8F0;
+    
+}
+        .MFC{
+            background-color:#FFC5C5;     
+        }
+
+        .love{
+            color: navy;
+        }
+
+        h3{
+            color: navy ;
+        }
+
+        h4{
+            color: #333333;
+        }
+
+        .Address{
+            color: #333333;
+        }
+
+        .thanks{
+            color: navy;
+        } 
+
+        #Contact{
+            background-color: #D3D3D3;
+            display: block;
+        }
+
+        #address{
+            background-color: #333333;
+            color: aliceblue;
+            display:block; 
+        }
+
+        .container{
+            display: flex;
+            justify-content: flex-end;
+            align-items: flex-end;
+            flex-direction: column;
+        }
+
+        .item4{
+            flex-grow: 2;
+        }
+
+        #container2{
+            display: flex;
+            justify-content: flex-end;
+            align-items: flex-end;    
+        }
